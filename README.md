@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Kumar</h1>
-<h3 align="center">ML Developer | Web Developer | RPA Enthusiast</h3>
-
+<h1 align="center">Hello 👋, I'm Yashwanth Kumar</h1>
 <br/>
 
 ## 📊 Profile
