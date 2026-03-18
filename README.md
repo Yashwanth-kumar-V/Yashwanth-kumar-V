@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Kumar</h1>
 <h3 align="center">ML Developer | Web Developer | RPA Enthusiast</h3>
 
-<div align="center">
-
-🎓 B.E CSE @ Rajalakshmi Engineering College  
-💡 AI • Web • Automation  
-🚀 Building real-world solutions  
-
-</div>
-
-<br/>
-
-## 🚀 About Me
-
-<p align="center">
-Aspiring Machine Learning Developer with hands-on experience in RPA using Python.  
-I enjoy building intelligent systems, automating workflows, and creating clean UI experiences.
-</p>
-
 <br/>
 
 ## 📊 Profile
@@ -33,32 +16,6 @@ I enjoy building intelligent systems, automating workflows, and creating clean U
 <img src="https://streak-stats.demolab.com?user=Yashwanth-kumar-V&theme=tokyonight&hide_border=true" width="65%" />
 
 </div>
-
-<br/>
-
-## 💼 Experience
-
-**Web Development Member** – Enactus (REC)  
-• Frontend development & social impact projects  
-
-**Graphic Designer** – IIC (REC)  
-• Posters, banners, event visuals  
-
-**RPA Intern** – Hurix Digital  
-• Built Python automation tools  
-• Reduced processing time drastically  
-
-**Frontend Intern** – CodexIntern  
-• React + Tailwind UI development  
-
-<br/>
-
-## 🚀 Projects
-
-• **Document Comparison Tool** – Python-based automation  
-• **CampusIQ** – Smart campus web platform  
-• **Car Price Prediction** – ML regression model  
-• **Diabetes Prediction** – ML classification  
 
 <br/>
 
